@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-San%20Jose%2C%20CA-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Currently-AP%20CSP-orange?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=trey-studio&style=flat-square&color=brightgreen&label=Profile+views" />
 </p>
 
@@ -11,7 +12,7 @@
 ### About me
 
 - Based in **San Jose, CA**
-- Learning the fundamentals of programming and computer science
+- Taking **AP Computer Science Principles** and learning the fundamentals of programming
 - Currently learning **JavaScript**, building apps, and working with lists, loops, and functions
 - Just getting started on GitHub, so expect more projects soon!
 
@@ -28,6 +29,7 @@
 
 - [x] Set up my GitHub profile
 - [ ] Push my first project
+- [ ] Finish AP CSP strong
 - [ ] Build something people actually use
 
 ---
