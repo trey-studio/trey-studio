@@ -11,8 +11,7 @@
 
 ### About me
 
-- Based in **San Jose, CA**
-- Taking **AP Computer Science Principles** and learning the fundamentals of programming
+- Based in **CA**
 - Currently learning **JavaScript**, building apps, and working with lists, loops, and functions
 - Just getting started on GitHub, so expect more projects soon!
 
@@ -28,8 +27,6 @@
 ### Goals
 
 - [x] Set up my GitHub profile
-- [ ] Push my first project
-- [ ] Finish AP CSP strong
 - [ ] Build something people actually use
 
 ---
