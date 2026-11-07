@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-San%20Jose%2C%20CA-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Currently-AP%20CSP-orange?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=trey-studio&style=flat-square&color=brightgreen&label=Profile+views" />
 </p>
 
@@ -20,7 +19,6 @@
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code.org%20App%20Lab-00ADBC?style=for-the-badge&logo=codedotorg&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
