@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Trey</h1>
-<h3 align="center">Learning to code, one project at a time</h3>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-San%20Jose%2C%20CA-blue?style=flat-square" />
